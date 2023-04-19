@@ -1,12 +1,12 @@
-Timer App
+# Timer App
 A simple timer app created using JavaScript that allows users to set a timer for a specific duration and count down to zero.
 
-Features
+# Features
 .Set timer for a specific duration
 .Start, pause, and reset the timer
 .Notification sound when the timer reaches zero
 
-How to Use
+# How to Use
 1.Open the app in a web browser.
 2.Enter the desired duration for the timer in minutes and seconds.
 3.Click the "Start" button to begin the countdown.
